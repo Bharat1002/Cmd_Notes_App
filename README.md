@@ -1,7 +1,7 @@
 # Cmd_Notes_App
 This is a Command line based Notes App with [yargs](https://www.npmjs.com/package/yargs) package.
 
-## setup
+## Setup
 Use below command to clone repo in your system
 ```
 git clone https://github.com/Bharat1002/Cmd_Notes_App.git
@@ -34,4 +34,4 @@ node .\app.js read --title="Title of Note"
 ```
 
 
-Note : --title and --body are required commands, if you won't use it then it will throw errors.
+Note that --title and --body are required commands, if you won't use it then it will throw errors.
